@@ -21,3 +21,4 @@ Các giải pháp:
 
 LƯU Ý: FILE ĐI KÈM BAO GỒM FILE SOURCE CODE CỦA TỪNG ĐOẠN SAMPLE, VỚI MODEL ML THÌ SẼ THỰC HIỆN TRÊN CÁC FILE CSV, SOURCE CODE ĐỂ CẢI THIỆN THÊM VỚI MODEL DEEP LEARNING.
 LINK GITHUB PROMISE BACKUP MASTER ĐỂ LẤY SOURCE CODE: https://github.com/feiwww/PROMISE-backup/tree/master
+GOOGLE SHEET KẾT QUẢ(đang cập nhật thêm) :https://docs.google.com/spreadsheets/d/1iaPVsiFAdF1dfd2IqVaMOMt2Dn56KREwVhsmhuCpw2w/edit?usp=sharing
