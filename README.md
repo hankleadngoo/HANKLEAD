@@ -20,3 +20,4 @@ Các giải pháp:
 4. ORAL (paper 2019 lụm được) ( nhưng chưa tối ưu nên chưa áp dụng với model ML)
 
 LƯU Ý: FILE ĐI KÈM BAO GỒM FILE SOURCE CODE CỦA TỪNG ĐOẠN SAMPLE, VỚI MODEL ML THÌ SẼ THỰC HIỆN TRÊN CÁC FILE CSV, SOURCE CODE ĐỂ CẢI THIỆN THÊM VỚI MODEL DEEP LEARNING.
+LINK GITHUB PROMISE BACKUP MASTER ĐỂ LẤY SOURCE CODE: https://github.com/feiwww/PROMISE-backup/tree/master
