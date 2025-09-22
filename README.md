@@ -19,3 +19,4 @@ Các giải pháp:
 3. Smote để oversampling dữ liệu( có thể bootstrapping)
 4. ORAL (paper 2019 lụm được) ( nhưng chưa tối ưu nên chưa áp dụng với model ML)
 
+LƯU Ý: FILE ĐI KÈM BAO GỒM FILE SOURCE CODE CỦA TỪNG ĐOẠN SAMPLE, VỚI MODEL ML THÌ SẼ THỰC HIỆN TRÊN CÁC FILE CSV, SOURCE CODE ĐỂ CẢI THIỆN THÊM VỚI MODEL DEEP LEARNING.
