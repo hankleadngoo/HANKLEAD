@@ -24,4 +24,4 @@ LINK GITHUB PROMISE BACKUP MASTER ĐỂ LẤY SOURCE CODE: https://github.com/fe
 GOOGLE SHEET KẾT QUẢ(đang cập nhật thêm) :https://docs.google.com/spreadsheets/d/1iaPVsiFAdF1dfd2IqVaMOMt2Dn56KREwVhsmhuCpw2w/edit?usp=sharing
 
 
-- Challemge task 1: Buglocalization - áp dụng NLP để detect bug report, đối chiếu với source file, xem bug nào liên quan source code nào.
+- Challenge task 1: Buglocalization - áp dụng NLP để detect bug report, đối chiếu với source file, xem bug nào liên quan source code nào.
